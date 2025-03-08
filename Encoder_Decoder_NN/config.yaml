@@ -1,0 +1,9 @@
+INPUT : {
+  CAPTIONS_FILENAME : "/Users/kavisanthoshkumar/Downloads/Flickr8k_text/Flickr8k.txt",
+  IMAGE_FILENAME: "/Users/kavisanthoshkumar/Downloads/Flicker8k_Dataset",
+}
+
+ARTIFACTS : {
+  IMAGE_FEATURES_DIR: "./artifacts/feature.pkl"
+}
+
