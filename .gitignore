@@ -1,0 +1,4 @@
+.env
+.Agentic_AI/.env.*
+.venv_agentic_ai
+.Agentic_AI/._.env.*
