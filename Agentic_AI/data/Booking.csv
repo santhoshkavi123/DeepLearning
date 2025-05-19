@@ -1,0 +1,6 @@
+﻿Customer ID,Name,Email,Phone Number,Loyalty Program ID,Booking Date,Flight Number
+CUST001,Alice Smith,alice.smith@email.com,123-456-7890,UA123456,5/18/25,UA237
+CUST002,Bob Johnson,bob.johnson@sample.org,987-654-3210,AA987654,5/17/25,AA101
+CUST003,Charlie Brown,charlie.brown@test.net,555-123-4567,,5/16/25,DL456
+CUST004,Diana Davis,diana.davis@sample.com,111-222-3333,,5/19/25,SW202
+CUST005,Ethan Garcia,ethan.garcia@example.org,444-555-6666,B60005,5/15/25,B6505
