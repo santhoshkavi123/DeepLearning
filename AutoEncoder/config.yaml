@@ -1,0 +1,5 @@
+Inputs: 
+  input_csv_filepath : "./data/creditcard.csv" 
+
+Outputs:
+  output_model_path : "./artifacts/autoencoder_model.keras"
