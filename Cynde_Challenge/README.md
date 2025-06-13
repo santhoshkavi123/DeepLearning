@@ -1,19 +1,22 @@
-# Instructions to run code
+# Instructions to Run Code
 
-# Cynde Challenge
+## Cynde Challenge
 
-This repository contains notebooks and resources for solving the **Cynde Data Challenge**. It includes data exploration, preprocessing, and any models or analysis done as part of the challenge.
+This repository contains notebooks and resources for solving the **Cynde Data Challenge**. It includes data exploration, preprocessing, and models or analysis relevant to the challenge.
 
 ## 📁 Folder Structure
-Cynde_Challenge/
-├── companies.csv # Input dataset
-├── cyndx_challenge.ipynb # Main IPython file
-├── README.md # Project overview and instructions
-└── requirements.txt # List of Python dependencies
 
+```text
+Cynde_Challenge/
+├── companies.csv             # Input dataset
+├── cyndx_challenge.ipynb     # Main IPython notebook
+├── UDFs.py                   # User Defined Functions
+├── README.md                 # Project overview and instructions
+└── requirements.txt          # Python dependencies
 
 # 📘 Notebooks
-- `cyndx_challenge.ipynb`: Possibly a more structured or final version.
+- `cyndx_challenge.ipynb`: Main notebook to be executed for analysis
+- `UDFs.py` : Contains helper functions used within the notebook
 
 ## 📊 Data
 
