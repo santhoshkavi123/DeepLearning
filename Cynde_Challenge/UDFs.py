@@ -35,9 +35,7 @@ def generate_companies_embeddings(
     """
 
     df["concatenated_name_description"] = (
-        df["Name"].fillna(" ").astype(str)
-        + " "
-        + df["Description"].fillna(" ").astype(str)
+        df["Description"].fillna(" ").astype(str)
     )
 
     # Clean the contancated name description
